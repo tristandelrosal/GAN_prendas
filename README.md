@@ -9,7 +9,7 @@ Este repositorio contiene código para generar imágenes de prendas de ropa util
 - `gan_prendas.ipynb`: Notebook de Jupyter que contiene el código para entrenar la GAN y generar imágenes.
 - `data/`: Directorio que contiene los datos del dataset.
 - `images/`: Directorio que contiene las imágenes y GIFs generados.
-- `models`: Directorio que contiene el modelo guardado a lo largo de su entrenamiento 
+- `models`: Directorio que contiene los modelos guardados a lo largo del entrenamiento
 - `README.md`: Este archivo.
 
 
